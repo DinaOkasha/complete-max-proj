@@ -21,11 +21,11 @@ spec:
 
 
 
-            # - name: AUTH_ADDRESS                 /in case using clusterIP for pod-pod connection
+            # - name: AUTH_ADDRESS                 //in case using clusterIP for pod-pod connection
               # value: "10.97.222.169" 
 
             # OR 
         
-              # value: localhost                   /in case communication between containers inside the same pod
+              # value: localhost                    //in case communication between containers inside the same pod
            
          
